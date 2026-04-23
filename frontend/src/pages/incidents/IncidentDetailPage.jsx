@@ -287,3 +287,4 @@ const IncidentDetailPage = () => {
   );
 };
 export default IncidentDetailPage;
+ 
